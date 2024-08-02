@@ -10,14 +10,14 @@ body {
 .container {
     display: flex;
     flex-direction: column;
-    gap: 50px; /* Increased gap to accommodate larger buttons */
+    gap: 500px; /* Increased gap to accommodate larger buttons */
 }
 
 .stylized-button {
-    font-size: 240px;  /* Increased font size */
-    padding: 100px 200px;  /* Increased padding */
+    font-size: 2400px;  /* Increased font size */
+    padding: 1000px 2000px;  /* Increased padding */
     border: none;
-    border-radius: 20px;  /* Increased border radius for larger buttons */
+    border-radius: 200px;  /* Increased border radius for larger buttons */
     background-color: #4CAF50;
     color: white;
     cursor: pointer;
@@ -31,5 +31,3 @@ body {
 .stylized-button:active {
     transform: scale(0.9);
 }
-
-
