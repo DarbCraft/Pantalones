@@ -14,8 +14,8 @@ body {
 }
 
 .stylized-button {
-    font-size: 24px;
-    padding: 20px 40px;
+    font-size: 240px;  /* Increased from 24px to 240px */
+    padding: 200px 400px;  /* Increased from 20px 40px to 200px 400px */
     border: none;
     border-radius: 10px;
     background-color: #4CAF50;
@@ -31,3 +31,4 @@ body {
 .stylized-button:active {
     transform: scale(0.9);
 }
+
